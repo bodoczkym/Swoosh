@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Swoosh</string>
+    <string name="description_text"><![CDATA[Find a team in your city & dominate the league]]></string>
+    <string name="headlineBottom">On going all out</string>
+    <string name="headlineTop">Go all in</string>
+    <string name="getStarted">Get started</string>
+    <string name="desired_league">Desired League:</string>
+    <string name="next">next</string>
+    <string name="mensLeague">Mens</string>
+    <string name="womensLeague">Womens</string>
+    <string name="coedLeague">Co-ed</string>
+    <string name="finish">Finish</string>
+    <string name="i_am_a">I am a:</string>
+    <string name="baller">baller</string>
+    <string name="beginner">beginner</string>
+    <string name="finishText">Looking for a league near you…</string>
+    <string name="searchText">"Looking for a %1$s %2$s league near you…"</string>
+</resources>
